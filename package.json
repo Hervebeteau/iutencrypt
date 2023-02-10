@@ -1,0 +1,22 @@
+{
+  "name": "@Hervé/iut-encrypt",
+  "version": "1.0.0",
+  "description": "Package de chiffrement SHA1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/Hervebeteau/iutencrypt",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hervebeteau/iutencrypt.git"
+  },
+  "keywords": [
+    "encrypt",
+    "iut",
+    "node",
+    "npm"
+  ],
+  "author": "Hervebeteau",
+  "license": "ISC"
+}
